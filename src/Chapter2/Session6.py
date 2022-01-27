@@ -122,3 +122,4 @@ best_dclf = grid_dclf.best_estimator_
 dpredictions = best_dclf.predict(X_test)
 accuracy = accuracy_score(y_test,dpredictions)
 print("베스트 결정트리 정확도 :{0:.4f}".format(accuracy))
+
