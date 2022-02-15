@@ -88,3 +88,4 @@ y=polynomial_func_2(X)
 print(y)
 model = model.fit(X,y)
 print("Polynomial pipeline 회귀 계수 \n",np.round(model.named_steps['linear'].coef_,2))
+
