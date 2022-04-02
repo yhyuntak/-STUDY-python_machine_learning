@@ -41,4 +41,12 @@ print(all_tokens)
 ################################################################################################################
 
 
-
+from nltk.stem import LancasterStemmer
+stemmer = LancasterStemmer()
+print(stemmer.stem('working'),stemmer.stem('works'),stemmer.stem('worked'))
+#
+# from nltk.stem import WordNetLemmatizer
+# nltk.download('wordnet')
+# lemma = WordNetLemmatizer()
+# print(lemma.lemmatize('amusing','v'),lemma.lemmatize('amuses','v'),lemma.lemmatize('amused','v'))
+#
