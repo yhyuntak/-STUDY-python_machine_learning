@@ -3,6 +3,7 @@
 This is the repository that I studied and wrote codes in a book "파이썬 머신러닝 완벽가이드".
 
 You could see the information about the book below.
+
 http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791158393229&orderClick=LEa&Kc= 
 
 ---
