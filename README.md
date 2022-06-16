@@ -5,6 +5,7 @@ This is the repository that I studied and wrote codes in a book "파이썬 머�
 You could see the information about the book below.
 
 http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791158393229&orderClick=LEa&Kc= 
+![image](https://user-images.githubusercontent.com/80496667/173997353-12402621-ff5f-485a-ab49-eed18a0adef7.png)
 
 ---
 
